@@ -2,7 +2,7 @@
     [
       {
         "_comment" : "Color palettes from ColourLovers --- we are rehosting this result locally so you don't need to learn cross-domain AJAX to make this work. Please visit http://www.colourlovers.com/api for the real thing.",        
-        "id": "92095",
+        "id": 92095,
         "title": "Giant Goldfish",
         "userName": "manekineko",
         "numViews": "518159",
@@ -26,7 +26,7 @@
         "apiUrl": "http://www.colourlovers.com/api/palette/92095"
       },
       {
-        "id": "629637",
+        "id": 629637,
         "title": "(◕〝◕)",
         "userName": "sugar!",
         "numViews": "187809",
@@ -50,7 +50,7 @@
         "apiUrl": "http://www.colourlovers.com/api/palette/629637"
       },
       {
-        "id": "694737",
+        "id": 694737,
         "title": "Thought Provoking",
         "userName": "Miss_Anthropy",
         "numViews": "263666",
@@ -74,7 +74,7 @@
         "apiUrl": "http://www.colourlovers.com/api/palette/694737"
       },
       {
-        "id": "1930",
+        "id": 1930,
         "title": "cheer up emo kid",
         "userName": "electrikmonk",
         "numViews": "245345",
@@ -98,7 +98,7 @@
         "apiUrl": "http://www.colourlovers.com/api/palette/1930"
       },
       {
-        "id": "49963",
+        "id": 49963,
         "title": "let them eat cake",
         "userName": "lunalein",
         "numViews": "148732",
@@ -121,7 +121,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/p/49/49963_let_them_eat_cake.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/49963"     },
       {
-        "id": "292482",
+        "id": 292482,
         "title": "Terra?",
         "userName": "GlueStudio",
         "numViews": "185305",
@@ -144,7 +144,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/pw/292/292482_Terra.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/292482"     },
       {
-        "id": "848743",
+        "id": 848743,
         "title": "(◕ ” ◕)",
         "userName": "sugar!",
         "numViews": "142960",
@@ -167,7 +167,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/pw/848/848743_(__).png",
         "apiUrl": "http://www.colourlovers.com/api/palette/848743"     },
       {
-        "id": "443995",
+        "id": 443995,
         "title": "i demand a pancake",
         "userName": "alpen",
         "numViews": "118218",
@@ -190,7 +190,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/p/443/443995_i_demand_a_pancake.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/443995"     },
       {
-        "id": "1473",
+        "id": 1473,
         "title": "Ocean Five",
         "userName": "DESIGNJUNKEE",
         "numViews": "145984",
@@ -213,7 +213,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/p/1/1473_Ocean_Five.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/1473"     },
       {
-        "id": "867235",
+        "id": 867235,
         "title": "LoversInJapan",
         "userName": "lovelyrita",
         "numViews": "76460",
@@ -236,7 +236,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/pw/867/867235_LoversInJapan.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/867235"     },
       {
-        "id": "77121",
+        "id": 77121,
         "title": "Good Friends",
         "userName": "Yasmino",
         "numViews": "144685",
@@ -259,7 +259,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/p/77/77121_Good_Friends.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/77121"     },
       {
-        "id": "444487",
+        "id": 444487,
         "title": "Curiosity Killed",
         "userName": "Miaka",
         "numViews": "90659",
@@ -282,7 +282,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/pw/444/444487_Curiosity_Killed.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/444487"     },
       {
-        "id": "359978",
+        "id": 359978,
         "title": "w o r d l e s s .",
         "userName": "tvr",
         "numViews": "104567",
@@ -305,7 +305,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/pw/359/359978_w_o_r_d_l_e_s_s_..png",
         "apiUrl": "http://www.colourlovers.com/api/palette/359978"     },
       {
-        "id": "932683",
+        "id": 932683,
         "title": "Compatible",
         "userName": "joy_of_summer",
         "numViews": "73608",
@@ -328,7 +328,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/pw/932/932683_Compatible.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/932683"     },
       {
-        "id": "723615",
+        "id": 723615,
         "title": "clairedelune",
         "userName": "lovelyrita",
         "numViews": "60091",
@@ -351,7 +351,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/p/723/723615_clairedelune.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/723615"     },
       {
-        "id": "482774",
+        "id": 482774,
         "title": "dream magnet",
         "userName": "lagunabeach",
         "numViews": "103255",
@@ -374,7 +374,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/pw/482/482774_dream_magnet.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/482774"     },
       {
-        "id": "1098589",
+        "id": 1098589,
         "title": "coup de grâce",
         "userName": "pseudonympho",
         "numViews": "45163",
@@ -397,7 +397,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/pw/1098/1098589_coup_de_grce.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/1098589"     },
       {
-        "id": "940086",
+        "id": 940086,
         "title": "mystery machine",
         "userName": "valeryanaglz",
         "numViews": "52122",
@@ -420,7 +420,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/pw/940/940086_mystery_machine.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/940086"     },
       {
-        "id": "522000",
+        "id": 522000,
         "title": "Storming Psychedelia",
         "userName": "Bionic Blender",
         "numViews": "52510",
@@ -443,7 +443,7 @@
         "badgeUrl": "http://www.colourlovers.com/images/badges/p/522/522000_Storming_Psychedelia.png",
         "apiUrl": "http://www.colourlovers.com/api/palette/522000"     },
       {
-        "id": "482416",
+        "id": 482416,
         "title": "Wasabi Suicide",
         "userName": "Miaka",
         "numViews": "47593",
